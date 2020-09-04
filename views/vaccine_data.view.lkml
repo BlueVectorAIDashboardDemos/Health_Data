@@ -51,6 +51,7 @@ view: vaccine_data {
 
   dimension: state {
     type: string
+    map_layer_name: us_states
     sql: ${TABLE}.state ;;
   }
 
