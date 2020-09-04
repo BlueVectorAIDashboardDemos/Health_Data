@@ -11,3 +11,5 @@ datagroup: health_data_default_datagroup {
 persist_with: health_data_default_datagroup
 
 explore: country_health_data_1 {}
+
+explore: vaccine_data {}
