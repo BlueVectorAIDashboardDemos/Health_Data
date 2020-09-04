@@ -1,5 +1,5 @@
 view: vaccine_data {
-  sql_table_name: `healthcare-data-transformation.Health_Data.Vaccine_Data`
+  sql_table_name: `healthcare-data-transformation.Health_Data.Vaccine_data`
     ;;
   drill_fields: [id]
 
